@@ -32,13 +32,13 @@ foreach ($country as $value) {
 
 ----->if statements
 <?php
-$lucky8===8
-if($lucky8 > $b):
-    echo $lucky8." is greater than ".$b;
-elseif($lucky8 == $b):
-    echo $lucky8." equals ".$b;
+$lucky_eight=8
+if($lucky_eight > $b);
+    echo $lucky_eight." is greater than ".$b;
+elseif($lucky_eight == $b);
+    echo $lucky-eight." equals ".$b;
 else:
-    echo $lucky8." is neither greater than or equal to ".$b;
+    echo $lucky_eight." is neither greater than or equal to ".$b;
 endif;
 
 ?>
