@@ -30,15 +30,15 @@ foreach ($country as $value) {
 }
 ?>
 
-//if statements
+----->if statements
 <?php
-
-if($n > $b):
-    echo $a." is greater than ".$b;
-elseif($a == $b): // Note the combination of the words.
-    echo $a." equals ".$b;
+$lucky8===8
+if($lucky8 > $b):
+    echo $lucky8." is greater than ".$b;
+elseif($lucky8 == $b):
+    echo $lucky8." equals ".$b;
 else:
-    echo $a." is neither greater than or equal to ".$b;
+    echo $lucky8." is neither greater than or equal to ".$b;
 endif;
 
 ?>
